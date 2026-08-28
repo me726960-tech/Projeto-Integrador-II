@@ -10,7 +10,7 @@ graph TD
     N2 -->|Salva| N4["Banco de Dados"]
 ```
 ---
-##2
+##2 2. Diagrama de Fluxo do Usuário
 ```mermaid
 flowchart TD
     N1["Inicio"] --> N2["Abrir App no Terminal"]
@@ -29,7 +29,7 @@ flowchart TD
     N9 --> N3
 ```
 ---
-##3
+## 3. Estrutura de Dados
 ```json
 [
   {
