@@ -10,7 +10,7 @@ graph TD
     B -->|Grava / Lê Logs| D["Banco de Dados Local"]
 ```
 
-flowchart TD
+```flowchart TD
     N1["Inicio: Ligar Terminal"] --> N2["Inicializar Modo Kiosk no App"]
     N2 --> N3["Exibir Tela Principal da Sala"]
     N3 --> N4{"Escolha do Alerta / Chamado"}
