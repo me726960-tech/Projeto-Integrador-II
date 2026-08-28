@@ -40,3 +40,12 @@ flowchart TD
     "status": "Pendente"
   }
 ]
+```
+---
+
+## 4. Protótipo da Interface e Componentes (Wireframe)
+A interface do terminal foi projetada para ser simples, responsiva e com botões grandes para telas de celulares:
+
+1. **Cabeçalho (Header)**: Identificação da sala (ex: *1º Ano A*), sinal de Wi-Fi e relógio.
+2. **Painel Principal**: Botões de toque rápido (**Chamar Professor**, **Limpeza**, **Suporte TI** e **Emergência**).
+3. **Rodapé**: Espaço para avisos e comunicados enviados pela diretoria.
