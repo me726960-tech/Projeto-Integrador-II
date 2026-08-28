@@ -25,4 +25,3 @@ flowchart TD
     
     N8 --> N9["Notificar Painel Administrativo em Tempo Real"]
     N9 --> N3
-```
